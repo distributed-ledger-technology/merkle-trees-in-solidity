@@ -7,5 +7,7 @@ You can compile and deploy the smart contracts in the src folder via remix.ether
 ```
 
 
-## Diagramm
-![image](https://user-images.githubusercontent.com/56861841/148117568-4863ade3-aa52-4cba-a84e-e3916171bb5d.png)
+## Explaining Merkle Trees
+Merkle trees are built up by hashing the neighbour element up the ladder. In case of questions feel free to raise an issue.
+![diagram](https://user-images.githubusercontent.com/43786652/148434036-c7babff1-c2fa-4ed7-a5e5-f1cd69a35ef5.jpg)
+
